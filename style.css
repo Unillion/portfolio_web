@@ -1,0 +1,16 @@
+#body {
+    background-color: rgb(40, 44, 44);
+}
+
+.top_buttons button {
+    height: 50px;
+    width: 150px;
+
+    border-radius: 7px;
+    border-color: aliceblue;
+    color: white;
+    background-color: rgb(76, 79, 83);
+}
+.top_buttons button:hover {
+    background-color: rgb(76, 100, 83);
+}
